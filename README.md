@@ -1,4 +1,4 @@
-# Hi there 👋, I'm jcroot
+# Hi there 👋, I'm Jean Claude Adams
 
 Welcome to my GitHub profile!  
 I'm passionate about software development, open source, and continuous learning.
