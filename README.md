@@ -8,9 +8,6 @@ I'm passionate about software development, open source, and continuous learning.
 - 🌱 Currently learning new technologies
 - 🛠️ Working on exciting projects
 
-## 📈 GitHub Stats
-![jcroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcroot&show_icons=true&hide_title=true)
-
 ## 🧰 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
